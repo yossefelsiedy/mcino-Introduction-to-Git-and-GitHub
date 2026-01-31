@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert d0cb282 Revert "Fix typo in footer year"
+  bug-fix-typo   60aa638 Fix typo in footer year
+  main           60aa638 [origin/main: ahead 1] Fix typo in footer year
